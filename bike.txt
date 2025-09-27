@@ -1,3 +1,4 @@
 TN 91 Y 9828 
-160cc
+air cooled engine 2 valve SOHC engine
+162.5CC
 Honda Hornet 160r
